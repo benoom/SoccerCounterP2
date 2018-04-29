@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Soccer Counter</string>
+    <!-- Title for the Home team heading-->
+    <string name="home_score">Home</string>
+    <!-- Title for the Away team heading-->
+    <string name="away_score">Away</string>
+    <!-- Represents the values for goals, shots, yellow cards, and red cards at reset-->
+    <string name="starting_values">0</string>
+    <!-- Title for the Goal buttons when a goal is scored-->
+    <string name="goal_scored">Goal!</string>
+    <!-- Title for the Shots on goal buttons-->
+    <string name="shot_on_goal">Shots</string>
+    <!-- Title for the yellow cards buttons-->
+    <string name="yellow_card">Yellow Cards</string>
+    <!-- Title for the red cards buttons-->
+    <string name="red_card">Red Cards</string>
+    <!-- Title for the Reset button-->
+    <string name="reset_button">Reset</string>
 </resources>
