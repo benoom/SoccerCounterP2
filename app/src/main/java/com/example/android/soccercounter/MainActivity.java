@@ -10,6 +10,9 @@ import android.widget.TextView;
  */
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     * Creating global variables for the two teams goals, shots, yellow cards, and red cards
+     */
     int homeScore = 0;
     int homeShots = 0;
     int homeYellowCards = 0;
